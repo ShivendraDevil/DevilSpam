@@ -210,7 +210,7 @@ def prepend_line(file_name, line):
 
 
 def getApi(target):
-    apiUrl = "https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/apiData.devil"
+    apiUrl = "https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/main/apiData.devil"
     try:
         a = requests.get(apiUrl)
         open('data.py', 'wb').write(a.content)
@@ -279,7 +279,7 @@ def sms():
 	target = input(
 	    f"{G}[{W}+{G}] Enter the Victim's Phone number \n\n{W}-----{R}# {C}")	
 	print()
-	a = requests.get('https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/.protected.numbers').text
+	a = requests.get('https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/main/.protected.numbers').text
 	if target in a :
 		error(f"{R} You Can't Bomb This Number");print();res()
 	else:
@@ -335,7 +335,7 @@ def wpbomb():
 
 def ver_check():
 	a = (G + '[+]' + C + ' Checking for Updates.....')
-	ver_url = 'https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/.version'
+	ver_url = 'https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/main/.version'
 	try:
 		ver_rqst = requests.get(ver_url)
 		ver_sc = ver_rqst.status_code
@@ -404,7 +404,7 @@ def main(a):
     	print()
     	ver_check()
     	check_intr()
-    	os.system("wget https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/.updatefile && bash .updatefile")
+    	os.system("wget https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/main/.updatefile && bash .updatefile")
     	print(f"{G} Restart it")
     	exit()
     else:
@@ -429,7 +429,7 @@ def selectnode(mode=""):
     print()
     times = input(f"{G}[{W}+{G}] Enter the no. of {mode} to send \n\n{W}-----{R}# {C}")  
     print()
-    a = requests.get('https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/.protected.numbers').text
+    a = requests.get('https://raw.githubusercontent.com/ShivendraDevil/DevilSpam/main/.protected.numbers').text
     if target in a :
         error(f"{R} You Can't Bomb This Number");print();res()
     else:
