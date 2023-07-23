@@ -33,9 +33,9 @@ DevilSpam is a python3 based script which is officially made for linux based dis
 * `git clone https://github.com/ShivendraDevil/DevilSpam`
 * `cd $HOME`
 * `ls`
-* `cd BaapG-Attack`
+* `cd DevilSpam`
 * `ls`
-* `python3 BaapG.py`
+* `python3 DevilSpam.py`
 
 
 ## WARNING : 
