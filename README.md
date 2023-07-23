@@ -8,12 +8,6 @@
 </p>
 
 
-<p align="center">
-
-<img src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/IMG_20211001_131953.jpg"/>
-
-
-
 
 </p>
 
@@ -35,7 +29,7 @@
 
 ## ABOUT TOOL :
 
-BaapG-Attack is a python3 based script which is officially made for linux based distro . It is inbuit mass bomber with sms, mail, calls and many more bombing 
+DevilSpam is a python3 based script which is officially made for linux based distro . It is inbuit mass bomber with sms, mail, calls and many more bombing 
 ### We Need contributers for apidata
 
 ## AVAILABLE ON :
@@ -73,20 +67,5 @@ BaapG-Attack is a python3 based script which is officially made for linux based 
 * `python3 BaapG.py`
 
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/Screenshot_2021-10-01-13-03-59-944_com.termux.jpg"/>
-<img width="45%" src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/Screenshot_2021-10-01-13-19-08-100_com.termux.jpg"/>
-</p>
-
-
 ## WARNING : 
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
-
-## Dontaions
-
-If You really like my work you should consider donating to me to made me buy [Raspberry Pi 400](https://www.electronicscomp.com/raspberry-pi-400-personal-keyboard-computer-kit)
-
-* UPI ID : anshdadwal@apl
