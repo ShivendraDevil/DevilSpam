@@ -30,7 +30,7 @@ DevilSpam is a python3 based script which is officially made for linux based dis
 * `pkg install python -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/T-Dynamos/BaapG-Attack`
+* `git clone https://github.com/ShivendraDevil/DevilSpam`
 * `cd $HOME`
 * `ls`
 * `cd BaapG-Attack`
